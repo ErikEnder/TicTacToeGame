@@ -1,2 +1,2 @@
-# beginnerprojects
-Beginner projects of mine using C++
+# TicTacToe Game
+Beginner project of mine using C++
